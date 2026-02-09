@@ -80,7 +80,7 @@ Upgrade to [Pro](https://wooplugin.pro/accessibility-scanner) for full complianc
 = Documentation & Support =
 
 * [Getting Started Guide](https://wooplugin.pro/docs/accessibility/getting-started)
-* [Support Forum](https://wordpress.org/support/plugin/wp-accessibility-scanner/)
+* [Support Forum](https://wordpress.org/support/plugin/accessibility-scanner/)
 
 = About WooPlugin =
 

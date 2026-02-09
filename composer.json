@@ -1,0 +1,10 @@
+{
+    "name": "wooplugin/wp-accessibility-scanner",
+    "description": "Accessibility Scanner – WCAG Compliance",
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    },
+    "autoload-dev": {
+        "psr-4": {}
+    }
+}

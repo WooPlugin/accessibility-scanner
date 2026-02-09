@@ -147,11 +147,11 @@ This plugin helps you identify and fix accessibility issues, which is a critical
 == Screenshots ==
 
 1. Dashboard showing accessibility score, issue counts, and recent scans
-2. Scanner page with URL input and real-time scan progress
+2. Scanner page with URL input and quick scan buttons
 3. Issues list with severity filtering and quick fix buttons
-4. Quick fix dialog for adding missing alt text
-5. Accessibility statement generator
-6. Settings page with scanning configuration
+4. Scan results with score, issue breakdown, and scan time
+5. License page with Pro feature comparison
+6. Settings page with WCAG level, timeout, and check configuration
 
 == Changelog ==
 

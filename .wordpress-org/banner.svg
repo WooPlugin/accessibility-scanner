@@ -1,0 +1,29 @@
+<svg width="1544" height="500" viewBox="0 0 1544 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1544" height="500" fill="#7f54b3"/>
+
+  <!-- Subtle pattern -->
+  <circle cx="100" cy="250" r="300" fill="white" opacity="0.03"/>
+  <circle cx="1444" cy="250" r="300" fill="white" opacity="0.03"/>
+
+  <!-- Accessibility person icon (scaled and positioned left) -->
+  <g transform="translate(220, 90)" opacity="0.95">
+    <!-- Head -->
+    <circle cx="0" cy="0" r="36" fill="white"/>
+
+    <!-- Arms outstretched -->
+    <path d="M-120 80 L0 112 L120 80" fill="none" stroke="white" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <!-- Body -->
+    <line x1="0" y1="112" x2="0" y2="200" stroke="white" stroke-width="24" stroke-linecap="round"/>
+
+    <!-- Legs -->
+    <path d="M0 200 L-64 288" fill="none" stroke="white" stroke-width="24" stroke-linecap="round"/>
+    <path d="M0 200 L64 288" fill="none" stroke="white" stroke-width="24" stroke-linecap="round"/>
+  </g>
+
+  <!-- Text -->
+  <text x="480" y="180" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="80" font-weight="700" fill="white">Accessibility Scanner</text>
+  <text x="480" y="250" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="44" fill="white" opacity="0.9">WCAG 2.2 Compliance</text>
+  <text x="480" y="360" font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="36" fill="white" opacity="0.7"><tspan font-weight="700">Real scanning</tspan>, real fixes. <tspan text-decoration="underline">No overlays</tspan>.</text>
+</svg>

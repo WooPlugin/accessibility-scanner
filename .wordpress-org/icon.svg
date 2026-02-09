@@ -1,0 +1,21 @@
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="256" height="256" viewBox="0 0 256 256">
+
+<!-- Purple background -->
+<rect width="256" height="256" rx="48" fill="#7f54b3"/>
+
+<!-- Universal accessibility person icon (white) -->
+<!-- Head -->
+<circle cx="128" cy="72" r="18" fill="white"/>
+
+<!-- Arms outstretched -->
+<path d="M68 112 L128 128 L188 112" fill="none" stroke="white" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+
+<!-- Body -->
+<line x1="128" y1="128" x2="128" y2="172" stroke="white" stroke-width="12" stroke-linecap="round"/>
+
+<!-- Legs -->
+<path d="M128 172 L96 216" fill="none" stroke="white" stroke-width="12" stroke-linecap="round"/>
+<path d="M128 172 L160 216" fill="none" stroke="white" stroke-width="12" stroke-linecap="round"/>
+
+</svg>

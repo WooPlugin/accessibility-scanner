@@ -11,7 +11,7 @@ $asfw_upgrade_url = add_query_arg([
 	'utm_source'   => 'plugin',
 	'utm_medium'   => 'license-page',
 	'utm_campaign' => 'free-to-pro',
-], 'https://wooplugin.pro/accessibility-scanner-pro#pricing');
+], 'https://wooplugin.pro/accessibility-scanner#pricing');
 ?>
 <div class="wrap asfw-license-page">
 	<h1 class="asfw-page-title"><?php esc_html_e('License', 'wp-accessibility-scanner'); ?></h1>
@@ -22,7 +22,7 @@ $asfw_upgrade_url = add_query_arg([
 		<table class="form-table">
 			<tr>
 				<th scope="row"><?php esc_html_e('Plugin', 'wp-accessibility-scanner'); ?></th>
-				<td><strong><?php esc_html_e('Accessibility Scanner for WordPress', 'wp-accessibility-scanner'); ?></strong></td>
+				<td><strong><?php esc_html_e('Accessibility Scanner', 'wp-accessibility-scanner'); ?></strong></td>
 			</tr>
 			<tr>
 				<th scope="row"><?php esc_html_e('Version', 'wp-accessibility-scanner'); ?></th>
@@ -111,27 +111,9 @@ $asfw_upgrade_url = add_query_arg([
 			</table>
 		</div>
 
-		<div class="asfw-pricing-cards">
-			<div class="asfw-pricing-card">
-				<h3><?php esc_html_e('Pro', 'wp-accessibility-scanner'); ?></h3>
-				<div class="asfw-price">$99<span>/<?php esc_html_e('year', 'wp-accessibility-scanner'); ?></span></div>
-				<p><?php esc_html_e('1 site', 'wp-accessibility-scanner'); ?></p>
-			</div>
-			<div class="asfw-pricing-card asfw-pricing-featured">
-				<h3><?php esc_html_e('Business', 'wp-accessibility-scanner'); ?></h3>
-				<div class="asfw-price">$149<span>/<?php esc_html_e('year', 'wp-accessibility-scanner'); ?></span></div>
-				<p><?php esc_html_e('5 sites', 'wp-accessibility-scanner'); ?></p>
-			</div>
-			<div class="asfw-pricing-card">
-				<h3><?php esc_html_e('Agency', 'wp-accessibility-scanner'); ?></h3>
-				<div class="asfw-price">$249<span>/<?php esc_html_e('year', 'wp-accessibility-scanner'); ?></span></div>
-				<p><?php esc_html_e('Unlimited sites', 'wp-accessibility-scanner'); ?></p>
-			</div>
-		</div>
-
 		<p class="asfw-upgrade-cta">
 			<a href="<?php echo esc_url($asfw_upgrade_url); ?>" class="button button-primary button-hero" target="_blank">
-				<?php esc_html_e('Get Pro Now', 'wp-accessibility-scanner'); ?> &rarr;
+				<?php esc_html_e('View Pro Plans', 'wp-accessibility-scanner'); ?> &rarr;
 			</a>
 		</p>
 	</div>

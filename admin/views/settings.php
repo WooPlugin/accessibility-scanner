@@ -116,7 +116,7 @@ $asfw_statement_page  = (int) get_option('asfw_statement_page_id', 0);
 								'utm_source'   => 'plugin',
 								'utm_medium'   => 'settings',
 								'utm_campaign' => 'free-to-pro',
-							], 'https://wooplugin.pro/accessibility-scanner-pro#pricing');
+							], 'https://wooplugin.pro/accessibility-scanner#pricing');
 							?>
 							<a href="<?php echo esc_url($asfw_upgrade_url); ?>" target="_blank">
 								<?php esc_html_e('Upgrade to unlock scheduling', 'wp-accessibility-scanner'); ?> &rarr;

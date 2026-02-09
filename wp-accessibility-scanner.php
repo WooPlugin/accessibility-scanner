@@ -131,14 +131,14 @@ add_filter('plugin_action_links_' . plugin_basename(__FILE__), function ($links)
         'utm_source'   => 'plugin',
         'utm_medium'   => 'plugins-page',
         'utm_campaign' => 'free-to-pro',
-    ], 'https://wooplugin.pro/accessibility-scanner-pro#pricing');
+    ], 'https://wooplugin.pro/accessibility-scanner#pricing');
 
     $custom_links = [
         'upgrade'  => '<a href="' . esc_url($upgrade_url) . '" target="_blank" style="color: #16a34a; font-weight: 600;">' .
             esc_html__('Upgrade to Pro', 'wp-accessibility-scanner') . '</a>',
         'settings' => '<a href="' . esc_url(admin_url('admin.php?page=asfw-settings')) . '">' .
             esc_html__('Settings', 'wp-accessibility-scanner') . '</a>',
-        'docs'     => '<a href="https://wooplugin.pro/docs/accessibility" target="_blank">' .
+        'docs'     => '<a href="https://wooplugin.pro/docs/accessibility/getting-started" target="_blank">' .
             esc_html__('Docs', 'wp-accessibility-scanner') . '</a>',
         'support'  => '<a href="https://wordpress.org/support/plugin/wp-accessibility-scanner/" target="_blank">' .
             esc_html__('Support', 'wp-accessibility-scanner') . '</a>',

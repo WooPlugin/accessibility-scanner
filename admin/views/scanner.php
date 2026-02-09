@@ -94,7 +94,7 @@ $asfw_home_url = home_url('/');
 			'utm_source'   => 'plugin',
 			'utm_medium'   => 'scanner-page',
 			'utm_campaign' => 'free-to-pro',
-		], 'https://wooplugin.pro/accessibility-scanner-pro#pricing');
+		], 'https://wooplugin.pro/accessibility-scanner#pricing');
 		?>
 		<a href="<?php echo esc_url($asfw_upgrade_url); ?>" class="button" target="_blank">
 			<?php esc_html_e('Upgrade to unlock', 'wp-accessibility-scanner'); ?> &rarr;

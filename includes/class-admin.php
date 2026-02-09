@@ -73,7 +73,7 @@ class ASFW_Admin {
             'utm_source'   => 'plugin',
             'utm_medium'   => 'menu',
             'utm_campaign' => 'free-to-pro',
-        ], 'https://wooplugin.pro/accessibility-scanner-pro#pricing');
+        ], 'https://wooplugin.pro/accessibility-scanner#pricing');
 
         wp_localize_script('asfw-admin', 'asfwScanner', [
             'ajaxUrl'        => admin_url('admin-ajax.php'),
@@ -175,7 +175,7 @@ class ASFW_Admin {
             'utm_source'   => 'plugin',
             'utm_medium'   => 'top-banner',
             'utm_campaign' => 'free-to-pro',
-        ], 'https://wooplugin.pro/accessibility-scanner-pro#pricing');
+        ], 'https://wooplugin.pro/accessibility-scanner#pricing');
         ?>
         <div class="asfw-pro-banner">
             <?php
@@ -203,7 +203,7 @@ class ASFW_Admin {
             'utm_source'   => 'plugin',
             'utm_medium'   => 'header',
             'utm_campaign' => 'free-to-pro',
-        ], 'https://wooplugin.pro/accessibility-scanner-pro#pricing');
+        ], 'https://wooplugin.pro/accessibility-scanner#pricing');
         ?>
         <div class="asfw-plugin-header">
             <div class="asfw-plugin-header-left">
@@ -232,7 +232,7 @@ class ASFW_Admin {
                     <div class="asfw-help-dropdown-menu">
                         <div class="asfw-help-section">
                             <h4><?php esc_html_e('Resources', 'wp-accessibility-scanner'); ?></h4>
-                            <a href="https://wooplugin.pro/docs/accessibility" target="_blank">
+                            <a href="https://wooplugin.pro/docs/accessibility/getting-started" target="_blank">
                                 <svg viewBox="0 0 20 20" fill="currentColor"><path d="M9 4.804A7.968 7.968 0 005.5 4c-1.255 0-2.443.29-3.5.804v10A7.969 7.969 0 015.5 14c1.669 0 3.218.51 4.5 1.385A7.962 7.962 0 0114.5 14c1.255 0 2.443.29 3.5.804v-10A7.968 7.968 0 0014.5 4c-1.255 0-2.443.29-3.5.804V12a1 1 0 11-2 0V4.804z"/></svg>
                                 <?php esc_html_e('Documentation', 'wp-accessibility-scanner'); ?>
                             </a>

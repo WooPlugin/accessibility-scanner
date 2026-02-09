@@ -1,6 +1,6 @@
 === Accessibility Scanner – WCAG Compliance ===
 Contributors: w03d
-Donate link: https://wooplugin.pro/accessibility-scanner-pro
+Donate link: https://wooplugin.pro/accessibility-scanner
 Tags: accessibility, wcag, ada, accessibility checker, accessibility scanner
 Requires at least: 6.0
 Tested up to: 6.9
@@ -37,7 +37,7 @@ The European Accessibility Act (EAA) became mandatory in June 2025. If your site
 
 = Pro Features =
 
-Upgrade to [Pro](https://wooplugin.pro/accessibility-scanner-pro) for full compliance:
+Upgrade to [Pro](https://wooplugin.pro/accessibility-scanner) for full compliance:
 
 * **Full Site Crawl** — Scan every page, post, and product automatically
 * **50+ WCAG 2.2 Level AA Checks** — Complete AA compliance testing
@@ -79,7 +79,7 @@ Upgrade to [Pro](https://wooplugin.pro/accessibility-scanner-pro) for full compl
 
 = Documentation & Support =
 
-* [Getting Started Guide](https://wooplugin.pro/docs/accessibility)
+* [Getting Started Guide](https://wooplugin.pro/docs/accessibility/getting-started)
 * [Support Forum](https://wordpress.org/support/plugin/wp-accessibility-scanner/)
 
 = About WooPlugin =
